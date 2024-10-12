@@ -2,7 +2,7 @@
 
 ## Description
 In this project i wrote a  program that calculate hours in a day, using interface with two methods and with my class  implementing the interface. 
-There are two 3 files
+There are 3 files, `Hour:` interface, `dayshours:` interface implementation class, `Main:` Main class.
 
 ## Features
 
